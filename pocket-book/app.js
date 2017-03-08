@@ -1,0 +1,1 @@
+var pocketBook = angular.module('pocketBook', []);
